@@ -14,7 +14,7 @@ The existence of Benevity relies on solving this problem. While Benevity boasts 
 - Develop solutions to simplify and incentivize the logging process.
 - Propose strategies to integrate Benevity more seamlessly into the workplace culture.
 
-## Presentation Contents
+## Contents & Data Analysis
 - **Introduction:** Importance of volunteer hour tracking.
 - **Current Challenges:** Common obstacles employees face.
 - **Proposed Solutions:** Behavioral nudges, gamification, and automation.
